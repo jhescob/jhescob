@@ -7,7 +7,7 @@ Me chamo José Henrique, tenho 18 anos, nascido e sou natural de Brasília-DF, c
       <a href="https://www.linkedin.com/in/josé-escobar-190695348/">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="https://www.instagram.com/jh.escob/">
-         <img alt="instagram pessoal" title="Instagram" src="    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="instagram pessoal" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://github.com/jhescob">
          <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
    </p>
@@ -50,5 +50,4 @@ Me chamo José Henrique, tenho 18 anos, nascido e sou natural de Brasília-DF, c
 
 <br/>
 <br/>
-
 
